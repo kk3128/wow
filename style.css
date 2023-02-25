@@ -1,0 +1,203 @@
+.img {
+    background-image: url(images/bmw-bmw-m4-car-cyan-wallpaper-preview.jpg);
+    height: 700px;
+    text-align: center;
+    font-size: 80px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.list-unstyled {
+    text-align: center;
+
+}
+
+.mr-3 {
+    height: 150px;
+}
+
+#row {
+    text-align: center;
+    margin: 0;
+}
+
+#footer {
+    text-align: center;
+    padding: 7% 15%;
+    margin: 5% 3% 5% 0;
+    color: black;
+}
+
+.kk {
+
+    height: 500px;
+    border-radius: 100%;
+}
+
+#cards {
+    text-align: center;
+    padding: 10% 22.3%;
+    background-color: black;
+    height: 400px;
+}
+
+
+#carouselExampleIndicators {
+    text-align: center;
+    background-color: black;
+
+}
+
+.carousel-item {
+    align-self: center;
+}
+
+img {
+    height: 500px;
+}
+
+#footer {
+    margin: 0;
+    background-color: black;
+    color: whitesmoke;
+    height: 80px;
+
+}
+
+.container-fluid {
+    word-spacing: 5px;
+
+}
+
+.social-icon:hover {
+    color: dimgray;
+}
+
+.card {
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+
+}
+
+
+.name {
+    position: relative;
+    top: 150px;
+}
+
+.col {
+    padding: 60px 50px;
+    text-align: center;
+
+    color: rgb(18, 17, 17);
+    background-color: white;
+
+}
+
+.q {
+    border-radius: 10%;
+}
+
+#carouselExampleCaptions {
+    text-align: center;
+    background-color: rgb(95, 90, 90);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    height: 500px;
+    color: whitesmoke;
+
+}
+
+.container {
+    background-color: black;
+
+
+}
+
+.blockquote-footer {
+    color: whitesmoke;
+}
+
+.btn-dark {
+    position: relative;
+    top: 150px;
+}
+
+.aw {
+    border-radius: 10%;
+}
+
+.list-unstyled {
+    background-color: black;
+    color: whitesmoke;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 10%;
+
+}
+
+
+.blog {
+
+    font-family:'lobster', cursive;
+    height: 600px;
+    text-align: center;
+    padding: 7%;
+    font-size: large;
+    word-spacing: 0.2rem;
+}
+
+
+
+.prateek {
+    height: 40px;
+    border-radius: 40%;
+}
+
+#footer {
+    height: 280px;
+}
+
+.card {
+    height: 300px;
+    padding: 50px;
+}
+
+.quote {
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 280px;
+    padding: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+@media (max-width: 1028px) 
+{}
+
+.img {
+    text-align: center;
+    position: relative;
+}
+
+.q {
+    text-align: center;
+    position: relative;
+}
+
+.list-unstyled {
+    text-align: center;
+    position: relative;
+}
+
+#footer {
+    text-align: center;
+    position: relative;
+}
+
+#cards {
+    text-align: center;
+    position: relative;
+}
